@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Begin
 {
-    internal class S2O6
+    internal class S2O7
     {
         static void Main(string[] args)
         {

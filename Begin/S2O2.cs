@@ -1,10 +1,13 @@
-﻿using System;
+﻿// TYPY
+
+/*
+
+using System;
 
 namespace Begin
 {
     internal class S2O2
     {
-        /*
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
@@ -36,6 +39,7 @@ namespace Begin
             decimal decimalNumber = 1.5M;
             double doubleNumber = 1.5;
         }
-        */
     }
 }
+
+*/

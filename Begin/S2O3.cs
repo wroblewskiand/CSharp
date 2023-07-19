@@ -1,11 +1,14 @@
-﻿using System;
+﻿// STRINGI
+
+/*
+
+using System;
 using System.Text;
 
 namespace Begin
 {
     internal class S2O3
     {
-        // /*
         static void Main(string[] args)
         {
             string message1;
@@ -46,6 +49,7 @@ namespace Begin
             string result = sb.ToString();
             Console.WriteLine(result);
         }
-        // */
     }
 }
+
+*/

@@ -1,4 +1,8 @@
-﻿using System;
+﻿// NAME
+
+// /*
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,12 +12,11 @@ namespace Begin
 {
     internal class S2Ox
     {
-        /*
         static void Main(string[] args)
         {
 
         }   
-        */
-
     }
 }
+
+// */

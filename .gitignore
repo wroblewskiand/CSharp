@@ -131,3 +131,7 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+*.v2
+.vs/Begin/FileContentIndex/51f834f8-e793-46fd-82a2-3ffd7ed20a23.vsidx
+*.vsidx
+*.lock

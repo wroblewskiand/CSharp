@@ -1,6 +1,6 @@
-﻿// Konwersja typów i rzutowanie
+// Konwersja typów i rzutowanie
 
-// /*
+/*
 
 using System;
 using System.Collections.Generic;
@@ -64,4 +64,4 @@ namespace Begin
     }
 }
 
-// */
+*/

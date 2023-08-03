@@ -10,7 +10,7 @@ Podczas czytania, aplikacja powinna:
 Po wczytaniu wartości 0, te dwie wartości powinny zostać wypisane w konsoli.
 */
 
- /* zadanie
+// /* zadanie
 
 using System;
 using System.Text;
@@ -40,7 +40,15 @@ namespace Begin
             }
 
             Console.WriteLine($"Sum of numbers = {sum}");
-            Console.WriteLine($"Max of numbers = {max}");
+
+            if (max != null)
+            {
+                Console.WriteLine($"Max of numbers = {max}");
+            }
+            else
+            {
+                Console.WriteLine("No values inserted");
+            }
         }   
     }
 }

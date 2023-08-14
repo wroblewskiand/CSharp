@@ -10,7 +10,7 @@ Podczas czytania, aplikacja powinna:
 Po wczytaniu wartości 0, te dwie wartości powinny zostać wypisane w konsoli.
 */
 
-// /* zadanie
+/* zadanie
 
 using System;
 using System.Text;

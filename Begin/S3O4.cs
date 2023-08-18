@@ -1,4 +1,4 @@
-﻿ /* Class konstruktor
+﻿ /* Class PROPERTIES
 
 using System;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Channels;
 
 namespace Begin
 {
-    class S3O3
+    class S3O4
     {
         static void Main(string[] args)
         {
@@ -15,6 +15,7 @@ namespace Begin
             bill.SetDateOfBirth(new DateTime(1990, 1, 1));
 
             bill.SayHi();
+            bill.ContractNumber = "999888777";
 
             Person john = new Person(new DateTime(1990, 1, 2), "John", "Wick");
 
